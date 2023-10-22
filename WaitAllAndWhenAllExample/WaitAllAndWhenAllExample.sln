@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaitAllAndWhenAllExample", "WaitAllAndWhenAllExample\WaitAllAndWhenAllExample.csproj", "{1CCA75C7-09C2-4541-9DBD-3EC66D2CC02B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CCA75C7-09C2-4541-9DBD-3EC66D2CC02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCA75C7-09C2-4541-9DBD-3EC66D2CC02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCA75C7-09C2-4541-9DBD-3EC66D2CC02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCA75C7-09C2-4541-9DBD-3EC66D2CC02B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21C80098-EF85-40AA-8125-DE0EE8872FA0}
+	EndGlobalSection
+EndGlobal
